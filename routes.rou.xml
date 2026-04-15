@@ -1,0 +1,5 @@
+<routes>
+    <vType id="car_type" vClass="passenger" maxSpeed="20.0" accel="2.6" decel="4.5" sigma="0.5" length="5.0"/>
+    <vType id="bike_type" vClass="bicycle" maxSpeed="8.0" accel="1.2" decel="3.0" sigma="0.5" length="2.0"/>
+    <vType id="agent_type" vClass="passenger" maxSpeed="25.0" accel="3.0" decel="5.0" sigma="0.0" length="5.0" color="1,0,0"/>
+</routes>
